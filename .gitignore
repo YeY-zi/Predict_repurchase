@@ -1,0 +1,13 @@
+data/raw/
+data/olist-v2.zip
+outputs/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+catboost_info/
+.DS_Store
+Thumbs.db

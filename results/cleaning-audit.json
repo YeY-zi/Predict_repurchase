@@ -1,0 +1,24 @@
+{
+  "source": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+  "raw_sha256_verified": [
+    "olist_orders_dataset.csv",
+    "olist_order_items_dataset.csv",
+    "olist_customers_dataset.csv"
+  ],
+  "orders_raw": 99441,
+  "items_raw": 112650,
+  "customers_raw": 99441,
+  "distinct_order_ids": 99441,
+  "duplicate_order_id_rows": 0,
+  "duplicate_customer_id_rows": 0,
+  "missing_or_invalid_purchase_timestamp": 0,
+  "missing_or_invalid_approval_timestamp": 160,
+  "orders_without_item_rows": 775,
+  "orders_with_nonpositive_or_missing_item_amount": 775,
+  "orders_without_customer_match": 0,
+  "approved_positive_value_orders_used": 98652,
+  "orders_not_used_for_approval_based_analysis": 789,
+  "unique_buyers_in_eligible_orders": 95407,
+  "rule": "Approved timestamp present, positive sum of item prices, customer match; no final-status filter",
+  "raw_files_modified": false
+}
