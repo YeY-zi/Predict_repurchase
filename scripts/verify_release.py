@@ -38,5 +38,8 @@ for path in (ROOT/'notebooks').glob('*.ipynb'):
 with zipfile.ZipFile(ROOT/'slides/olist-repurchase-briefing.pptx') as z:
     assert z.testzip() is None
     assert len([n for n in z.namelist() if re.fullmatch(r'ppt/slides/slide\d+.xml',n)])==5
+with zipfile.ZipFile(ROOT/'slides/olist-repurchase-results.pptx') as z:
+    assert z.testzip() is None
+    assert len([n for n in z.namelist() if re.fullmatch(r'ppt/slides/slide\d+.xml',n)])==8
 if errors:raise ValueError('\n'.join(errors))
-print('PASS: Markdown links, Python syntax, optional downloaded archive hashes, cleaning and feedback arithmetic, notebook saved outputs, 5-slide proposal PPTX.')
+print('PASS: Markdown links, Python syntax, optional downloaded archive hashes, cleaning and feedback arithmetic, notebook saved outputs, 5-slide proposal and 8-slide results PPTX.')

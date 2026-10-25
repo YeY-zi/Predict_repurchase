@@ -2,7 +2,7 @@
 
 ## 1. 只想阅读，不想运行
 
-直接打开README、术语表、结果说明即可。PPT文件在 `slides/olist-repurchase-briefing.pptx`，点击文件后选择下载。Markdown讲稿可以在GitHub网页直接阅读。
+直接打开README、术语表、结果说明即可。`slides/olist-repurchase-briefing.pptx` 是五页提案；`slides/olist-repurchase-results.pptx` 是新增的八页结果汇报，附英文讲稿、中文讲解和来源备注。点击 PPT 文件后选择下载。提案的 Markdown 讲稿可以在 GitHub 网页直接阅读。
 
 原始 ZIP 不放进 Git 历史。仓库首页 Code → Download ZIP 可下载项目代码、文档与结果，随后用下载脚本获取 Olist 官方数据。2026-10-25 已验证公开接口可用；如果以后接口要求登录，请到[官方数据页](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)按其现行方式下载。
 

@@ -13,7 +13,7 @@
 3. **看研究怎样进行**：[完整方法与验证设计](docs/03-methodology.md)。包含流程图、时间窗口、模型和组内 EDA。
 4. **遇到术语就查**：[人话术语表](docs/04-glossary.md)。不需要一开始全部背下来。
 5. **看实际做到了什么**：[探索实验结果及限制](docs/05-results.md)和[完整反馈实验与数据清理](docs/09-feedback-and-cleaning.md)。
-6. **准备汇报**：[最新版 PPT](slides/olist-repurchase-briefing.pptx) · [3 分钟英文讲稿＋逐段中文翻译](slides/briefing-script-bilingual.md)。
+6. **准备汇报**：[五页提案 PPT](slides/olist-repurchase-briefing.pptx) · [八页结果汇报 PPT](slides/olist-repurchase-results.pptx)。两份文件均含英文讲稿与中文讲解备注；提案另有[三分钟双语讲稿](slides/briefing-script-bilingual.md)。
 7. 想亲手运行，再看 [从下载到运行的操作指南](docs/06-run-guide.md)。
 
 ## 我们现在的研究问题
@@ -54,6 +54,7 @@ flowchart TD
 | 规则分群与 K-means 小实验 | 已完成，探索性质 | 一次历史窗口，帮助理解分群，不是最终选模 |
 | 四种分类模型复购预测对照 | 已完成，探索性质 | 一个测试季度，不能认定普遍最优 |
 | 最新五页 Briefing 与英中讲稿 | 已完成草稿 | 描述研究计划，不声称反馈流程已经跑完 |
+| 八页结果汇报 PPT | 已完成 | 解释清洗、预测、分群、特征实验与负向测试结果；附英中备注 |
 | 聚类后逐群 EDA、特征改进及前后对照 | **已完成探索实验** | 验证期群标记提高 AP；已公开的测试期没有改善，不能宣称提升预测 |
 | 多时期验证、置信区间、阈值或预算分析 | **待完成** | 提高证据可靠性，不应补造结果 |
 | 真实营销干预实验 | **没有数据，也未实施** | 只能提出未来试验建议 |
@@ -71,6 +72,7 @@ flowchart TD
 | [data/README.md](data/README.md) | Olist 官方数据链接、九表概览与下载步骤 |
 | [data/source-manifest.json](data/source-manifest.json) | 下载来源、版本、日期及每个原始文件的 SHA-256 |
 | [slides/olist-repurchase-briefing.pptx](slides/olist-repurchase-briefing.pptx) | 使用 CityU 模板的最新复购主线 PPT，含可编辑流程图与备注 |
+| [slides/olist-repurchase-results.pptx](slides/olist-repurchase-results.pptx) | 管理者视角八页结果汇报，含双语讲解备注与来源 |
 | [slides/briefing-script-bilingual.md](slides/briefing-script-bilingual.md) | 与该 PPT 对齐的英文讲稿和中文翻译 |
 | [notebooks/01-data-guide.ipynb](notebooks/01-data-guide.ipynb) | 九张表入门教学 |
 | [scripts](scripts/) | 解压、清洗审计、数据准备、分类对比、分群与反馈实验代码 |

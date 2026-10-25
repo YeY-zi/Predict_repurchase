@@ -11,6 +11,7 @@
 - Markdown本地链接、Python语法、指标分母计算及五页PPT压缩包结构检查通过。
 - PPT沿用已在Microsoft PowerPoint逐页查看的五页版本；公开副本仅清理作者元数据，不改幻灯片和讲稿内容。
 - 补充运行 `scripts/audit_cleaning.py` 和 `scripts/run_feedback.py`；三表审计、四个特征方案的验证对照、分群规模和前 10% 名单人数经过 `scripts/verify_release.py` 核对。反馈实验在当前本地环境运行，保留完整的验证期改善与已公开测试期下降。
+- 新增八页结果汇报 PPT；逐页渲染检查文字与布局，包结构、字体和重新导入检查通过。讲稿与来源放在各页备注中。
 
 ## 环境与边界
 
