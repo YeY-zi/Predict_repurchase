@@ -121,3 +121,7 @@ python scripts/run_feedback.py
 - PPT 中 CityU 标识及模板素材保留学校相关权利；仅用于课程展示，不代表学校背书，也未授予商标使用权。
 - 最新课程提交规则以 Canvas 为准。本公开仓库供协作与研究，不构成已提交或已评分声明。
 - 本仓库的基础教学材料、代码、数据来源清单与提案 PPT 移植自 [CercaTrovato/olist-repurchase-analysis](https://github.com/CercaTrovato/olist-repurchase-analysis)，保留其 MIT 代码许可及 Olist 数据归属；新增清洗审计与反馈实验在此仓库完成。
+
+## 可阅读和复跑的学习Notebook
+
+已公开整理后的10份学习/岗位Notebook及岗位复跑入口，阅读顺序、环境要求和验证记录见[Notebook导航](notebooks/learning/README.md)。完整执行原件、逐行客户数据和H02交接ZIP继续保留在私有空间。

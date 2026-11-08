@@ -1,0 +1,92 @@
+[
+  {
+    "file": "notebooks/learning/00_problem_discovery.ipynb",
+    "origin": "个人学习原件 00_independent_problem_discovery.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 3,
+    "validated_on": "2026-11-08",
+    "source_sha256": "e8e9ae6c37a8dcd4421138cc306a8864c91f31bfa855a38cf3f9fc2ca387aff5"
+  },
+  {
+    "file": "notebooks/learning/01_raw_data.ipynb",
+    "origin": "个人学习原件 01_understand_raw_data.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 13,
+    "validated_on": "2026-11-08",
+    "source_sha256": "947f94ef6980e9b4ac04060eea63cfc0936774a4b36cab99a375e8e28acf4ef0"
+  },
+  {
+    "file": "notebooks/learning/02_nine_tables.ipynb",
+    "origin": "个人学习原件 01_data_understanding_master.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 14,
+    "validated_on": "2026-11-08",
+    "source_sha256": "651861eeb8664edf46496113002fa9d09ab17ccfc6ea514ed496e15fa4d32470"
+  },
+  {
+    "file": "notebooks/learning/02b_nine_tables_notes.ipynb",
+    "origin": "个人学习原件 01_data.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 17,
+    "validated_on": "2026-11-08",
+    "source_sha256": "326d5f1c62aa7fa269836795c3f7c5dbd3e3a3131ebc54969c270566849a2470"
+  },
+  {
+    "file": "notebooks/learning/03_relations_time_quality.ipynb",
+    "origin": "个人学习原件 03_relations_time_quality.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 8,
+    "validated_on": "2026-11-08",
+    "source_sha256": "56a6e634a2cfdd103d8cd86dc38abcaf1763e2e20686ce9c39e8bf640b9cea27"
+  },
+  {
+    "file": "notebooks/learning/04_forecast_horizon.ipynb",
+    "origin": "个人学习原件 02_choose_forecast_horizon.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 4,
+    "validated_on": "2026-11-08",
+    "source_sha256": "3118ed10ec289f93b700c94140a454105ebdfa214e13ba5d4f786074e2a5cb83"
+  },
+  {
+    "file": "notebooks/learning/05_window_decision.ipynb",
+    "origin": "个人学习原件 02b_window_decision_walkthrough.ipynb",
+    "changes": "清除输出/元数据，数据根目录相对查找；窗口网格限已开放三期",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 7,
+    "validated_on": "2026-11-08",
+    "source_sha256": "c5adab247817e33ef87328016a3dacb3f3e52d849eab679faf1358bbbb393f5b"
+  },
+  {
+    "file": "notebooks/02-role01-order-fact-and-history.ipynb",
+    "origin": "1号私有执行原件 02-role01-order-fact-and-history.ipynb",
+    "changes": "清除输出/元数据；动态示例；学习版本与输出目录隔离",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 14,
+    "validated_on": "2026-11-08",
+    "source_sha256": "4c80b722a15353c4067d00311800476516e581588e22597e05e749982ed06b34"
+  },
+  {
+    "file": "notebooks/03-role01-h02-coverage-features-labels.ipynb",
+    "origin": "1号私有执行原件 03-role01-h02-coverage-features-labels.ipynb",
+    "changes": "清除输出/元数据；动态示例；学习版本与输出目录隔离",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 12,
+    "validated_on": "2026-11-08",
+    "source_sha256": "a38c0a887d503cedd49101339d02f9d7f24ad916d1b7534244302739bf803776"
+  },
+  {
+    "file": "notebooks/04-role01-h02-independent-review.ipynb",
+    "origin": "1号私有执行原件 04-role01-h02-independent-review.ipynb",
+    "changes": "清除输出/元数据；动态示例；学习版本与输出目录隔离",
+    "validation": "executed_passed_in_isolated_local_workspace",
+    "code_cells": 15,
+    "validated_on": "2026-11-08",
+    "source_sha256": "60b345a04be239226d749f8b1b5293cfd46d8d2223d99ab59af231375ecd6836"
+  }
+]
