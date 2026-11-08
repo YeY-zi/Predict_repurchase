@@ -1,0 +1,37 @@
+{
+  "data_version": "H02-v2-candidate-reviewed",
+  "generated_at_hong_kong": "2026-11-08T00:52:35.326575+08:00",
+  "source_zip_sha256": "967e41e04fc306fe604e2a693f488995a8b41e5047418f8a5c8e4abd6deca784",
+  "runtime": {
+    "python": "3.12.5",
+    "pandas": "2.3.3",
+    "numpy": "1.26.4"
+  },
+  "history_months": 6,
+  "target_days": 90,
+  "observation_start": "2017-01-01",
+  "observation_end_exclusive": "2018-09-01",
+  "customer_snapshot_rows": 88341,
+  "unique_buyers": 58612,
+  "tests": {
+    "key_alignment": "passed",
+    "csv_roundtrip": "passed",
+    "boundary_fixture": "passed",
+    "real_boundary_order": "passed",
+    "future_mutation": "passed",
+    "insufficient_followup_rejected": "passed",
+    "customer_trace_cases": 15,
+    "independent_raw_recomputation_rows": 88341,
+    "independent_feature_and_label_columns": 12,
+    "independent_checks": "passed",
+    "v2_csv_roundtrip": "passed"
+  },
+  "final_evaluation": {
+    "date": null,
+    "labels_generated": false,
+    "release_status": "not_selected_not_released"
+  },
+  "private_delivery_manifest_sha256": "78c805d6161bca4c55cb7b352ca84d6da75b6d2917645f2cd76b265acd155ce0",
+  "publication_scope": "Aggregate evidence only; no row-level customers, labels, traces, screenshots or private links.",
+  "handoff_status": "User reported sent; role 6 acknowledged receipt; formal acceptance pending."
+}
